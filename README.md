@@ -1,2 +1,3 @@
 # Face-Trap
-Machine Learning Project for Emotion Recognition with Python &amp; OpenCV
+**Description:** Machine Learning Project for Emotion Recognition with Python &amp; OpenCV
+![header-img](https://github.com/VanessaAttaFynn/Face-Trap/assets/img.jpg)
